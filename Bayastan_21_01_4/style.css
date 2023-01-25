@@ -1,0 +1,29 @@
+body{
+    background-color: #f8f6f4;
+}
+div{
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #f8f6f4;
+
+}
+
+.div2 {
+    margin-left: 10px;
+    padding: 75px;
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+}
+.div2 p {
+}
+
+img{
+    transition: 1s;
+}
+img:hover {
+    transform: rotate(720deg) scale(2);
+}

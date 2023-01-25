@@ -1,0 +1,33 @@
+[
+
+  {
+    "name": "Тоналка",
+    "price": "272 ₽",
+    "url": "https://basket-02.wb.ru/vol155/part15537/15537254/images/tm/1.jpg",
+    "button" : "корзина"
+  },
+  {
+    "name": "Консилер",
+    "price": "360 ₽",
+    "url": "https://basket-10.wb.ru/vol1362/part136283/136283172/images/tm/1.jpg",
+    "button" : "корзина"
+  },
+  {
+    "name": "Хайлайтер",
+    "price": "689 ₽",
+    "url": "https://basket-01.wb.ru/vol83/part8303/8303827/images/tm/1.webp",
+    "button" : "корзина"
+  },
+  {
+    "name": "Румяна ",
+    "price": "336 ₽",
+    "url": "https://basket-01.wb.ru/vol26/part2695/2695594/images/tm/1.webp",
+    "button" : "корзина"
+  },
+  {
+    "name": "Помада",
+    "price": "275 ₽",
+    "url": "https://basket-02.wb.ru/vol162/part16286/16286782/images/tm/1.jpg",
+    "button" : "корзина"
+  }
+]
